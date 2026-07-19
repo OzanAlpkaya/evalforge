@@ -1,0 +1,11 @@
+[project]
+name = "evalforge"
+version = "0.1.0"
+description = "LLM evaluation, RAG quality, and prompt regression platform"
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.11.29,<0.12.0"]
+build-backend = "uv_build"
